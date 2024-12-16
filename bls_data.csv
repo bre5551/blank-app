@@ -1,0 +1,717 @@
+series_id,series_name,year,period,period_name,value
+CES0000000001,Nonfarm Payrolls,2024,M11,November,159288
+CES0000000001,Nonfarm Payrolls,2024,M10,October,159061
+CES0000000001,Nonfarm Payrolls,2024,M09,September,159025
+CES0000000001,Nonfarm Payrolls,2024,M08,August,158770
+CES0000000001,Nonfarm Payrolls,2024,M07,July,158692
+CES0000000001,Nonfarm Payrolls,2024,M06,June,158548
+CES0000000001,Nonfarm Payrolls,2024,M05,May,158430
+CES0000000001,Nonfarm Payrolls,2024,M04,April,158214
+CES0000000001,Nonfarm Payrolls,2024,M03,March,158106
+CES0000000001,Nonfarm Payrolls,2024,M02,February,157796
+CES0000000001,Nonfarm Payrolls,2024,M01,January,157560
+CES0000000001,Nonfarm Payrolls,2023,M12,December,157304
+CES0000000001,Nonfarm Payrolls,2023,M11,November,157014
+CES0000000001,Nonfarm Payrolls,2023,M10,October,156832
+CES0000000001,Nonfarm Payrolls,2023,M09,September,156667
+CES0000000001,Nonfarm Payrolls,2023,M08,August,156421
+CES0000000001,Nonfarm Payrolls,2023,M07,July,156211
+CES0000000001,Nonfarm Payrolls,2023,M06,June,156027
+CES0000000001,Nonfarm Payrolls,2023,M05,May,155787
+CES0000000001,Nonfarm Payrolls,2023,M04,April,155484
+CES0000000001,Nonfarm Payrolls,2023,M03,March,155206
+CES0000000001,Nonfarm Payrolls,2023,M02,February,155060
+CES0000000001,Nonfarm Payrolls,2023,M01,January,154773
+CES0000000001,Nonfarm Payrolls,2022,M12,December,154291
+CES0000000001,Nonfarm Payrolls,2022,M11,November,154155
+CES0000000001,Nonfarm Payrolls,2022,M10,October,153897
+CES0000000001,Nonfarm Payrolls,2022,M09,September,153536
+CES0000000001,Nonfarm Payrolls,2022,M08,August,153281
+CES0000000001,Nonfarm Payrolls,2022,M07,July,153038
+CES0000000001,Nonfarm Payrolls,2022,M06,June,152348
+CES0000000001,Nonfarm Payrolls,2022,M05,May,151928
+CES0000000001,Nonfarm Payrolls,2022,M04,April,151642
+CES0000000001,Nonfarm Payrolls,2022,M03,March,151370
+CES0000000001,Nonfarm Payrolls,2022,M02,February,150876
+CES0000000001,Nonfarm Payrolls,2022,M01,January,150014
+CES0000000001,Nonfarm Payrolls,2021,M12,December,149763
+CES0000000001,Nonfarm Payrolls,2021,M11,November,149197
+CES0000000001,Nonfarm Payrolls,2021,M10,October,148566
+CES0000000001,Nonfarm Payrolls,2021,M09,September,147706
+CES0000000001,Nonfarm Payrolls,2021,M08,August,147226
+CES0000000001,Nonfarm Payrolls,2021,M07,July,146761
+CES0000000001,Nonfarm Payrolls,2021,M06,June,145822
+CES0000000001,Nonfarm Payrolls,2021,M05,May,145044
+CES0000000001,Nonfarm Payrolls,2021,M04,April,144593
+CES0000000001,Nonfarm Payrolls,2021,M03,March,144274
+CES0000000001,Nonfarm Payrolls,2021,M02,February,143443
+CES0000000001,Nonfarm Payrolls,2021,M01,January,142916
+CES0000000001,Nonfarm Payrolls,2020,M12,December,142518
+CES0000000001,Nonfarm Payrolls,2020,M11,November,142761
+CES0000000001,Nonfarm Payrolls,2020,M10,October,142493
+CES0000000001,Nonfarm Payrolls,2020,M09,September,141820
+CES0000000001,Nonfarm Payrolls,2020,M08,August,140774
+CES0000000001,Nonfarm Payrolls,2020,M07,July,139240
+CES0000000001,Nonfarm Payrolls,2020,M06,June,137655
+CES0000000001,Nonfarm Payrolls,2020,M05,May,133040
+CES0000000001,Nonfarm Payrolls,2020,M04,April,130421
+CES0000000001,Nonfarm Payrolls,2020,M03,March,150898
+CES0000000001,Nonfarm Payrolls,2020,M02,February,152309
+CES0000000001,Nonfarm Payrolls,2020,M01,January,152045
+CES0000000001,Nonfarm Payrolls,2019,M12,December,151792
+CES0000000001,Nonfarm Payrolls,2019,M11,November,151666
+CES0000000001,Nonfarm Payrolls,2019,M10,October,151458
+CES0000000001,Nonfarm Payrolls,2019,M09,September,151358
+CES0000000001,Nonfarm Payrolls,2019,M08,August,151155
+CES0000000001,Nonfarm Payrolls,2019,M07,July,150934
+CES0000000001,Nonfarm Payrolls,2019,M06,June,150844
+CES0000000001,Nonfarm Payrolls,2019,M05,May,150640
+CES0000000001,Nonfarm Payrolls,2019,M04,April,150602
+CES0000000001,Nonfarm Payrolls,2019,M03,March,150294
+CES0000000001,Nonfarm Payrolls,2019,M02,February,150067
+CES0000000001,Nonfarm Payrolls,2019,M01,January,150062
+CES0000000001,Nonfarm Payrolls,2018,M12,December,149804
+CES0000000001,Nonfarm Payrolls,2018,M11,November,149622
+CES0000000001,Nonfarm Payrolls,2018,M10,October,149525
+CES0000000001,Nonfarm Payrolls,2018,M09,September,149361
+CES0000000001,Nonfarm Payrolls,2018,M08,August,149274
+CES0000000001,Nonfarm Payrolls,2018,M07,July,149023
+CES0000000001,Nonfarm Payrolls,2018,M06,June,148968
+CES0000000001,Nonfarm Payrolls,2018,M05,May,148755
+CES0000000001,Nonfarm Payrolls,2018,M04,April,148426
+CES0000000001,Nonfarm Payrolls,2018,M03,March,148280
+CES0000000001,Nonfarm Payrolls,2018,M02,February,148054
+CES0000000001,Nonfarm Payrolls,2018,M01,January,147667
+CES0000000001,Nonfarm Payrolls,2017,M12,December,147521
+CES0000000001,Nonfarm Payrolls,2017,M11,November,147375
+CES0000000001,Nonfarm Payrolls,2017,M10,October,147146
+CES0000000001,Nonfarm Payrolls,2017,M09,September,146999
+CES0000000001,Nonfarm Payrolls,2017,M08,August,146907
+CES0000000001,Nonfarm Payrolls,2017,M07,July,146772
+CES0000000001,Nonfarm Payrolls,2017,M06,June,146588
+CES0000000001,Nonfarm Payrolls,2017,M05,May,146389
+CES0000000001,Nonfarm Payrolls,2017,M04,April,146173
+CES0000000001,Nonfarm Payrolls,2017,M03,March,145976
+CES0000000001,Nonfarm Payrolls,2017,M02,February,145848
+CES0000000001,Nonfarm Payrolls,2017,M01,January,145636
+CES0000000001,Nonfarm Payrolls,2016,M12,December,145410
+CES0000000001,Nonfarm Payrolls,2016,M11,November,145188
+CES0000000001,Nonfarm Payrolls,2016,M10,October,145069
+CES0000000001,Nonfarm Payrolls,2016,M09,September,144961
+CES0000000001,Nonfarm Payrolls,2016,M08,August,144664
+CES0000000001,Nonfarm Payrolls,2016,M07,July,144515
+CES0000000001,Nonfarm Payrolls,2016,M06,June,144152
+CES0000000001,Nonfarm Payrolls,2016,M05,May,143901
+CES0000000001,Nonfarm Payrolls,2016,M04,April,143856
+CES0000000001,Nonfarm Payrolls,2016,M03,March,143666
+CES0000000001,Nonfarm Payrolls,2016,M02,February,143411
+CES0000000001,Nonfarm Payrolls,2016,M01,January,143196
+CES0000000001,Nonfarm Payrolls,2015,M12,December,143083
+CES0000000001,Nonfarm Payrolls,2015,M11,November,142810
+CES0000000001,Nonfarm Payrolls,2015,M10,October,142584
+CES0000000001,Nonfarm Payrolls,2015,M09,September,142265
+CES0000000001,Nonfarm Payrolls,2015,M08,August,142130
+CES0000000001,Nonfarm Payrolls,2015,M07,July,141989
+CES0000000001,Nonfarm Payrolls,2015,M06,June,141695
+CES0000000001,Nonfarm Payrolls,2015,M05,May,141539
+CES0000000001,Nonfarm Payrolls,2015,M04,April,141202
+CES0000000001,Nonfarm Payrolls,2015,M03,March,140925
+CES0000000001,Nonfarm Payrolls,2015,M02,February,140831
+CES0000000001,Nonfarm Payrolls,2015,M01,January,140562
+CES0000000001,Nonfarm Payrolls,2014,M12,December,140366
+CES0000000001,Nonfarm Payrolls,2014,M11,November,140088
+CES0000000001,Nonfarm Payrolls,2014,M10,October,139804
+CES0000000001,Nonfarm Payrolls,2014,M09,September,139564
+CES0000000001,Nonfarm Payrolls,2014,M08,August,139257
+CES0000000001,Nonfarm Payrolls,2014,M07,July,139076
+CES0000000001,Nonfarm Payrolls,2014,M06,June,138833
+CES0000000001,Nonfarm Payrolls,2014,M05,May,138500
+CES0000000001,Nonfarm Payrolls,2014,M04,April,138298
+CES0000000001,Nonfarm Payrolls,2014,M03,March,137987
+CES0000000001,Nonfarm Payrolls,2014,M02,February,137710
+CES0000000001,Nonfarm Payrolls,2014,M01,January,137551
+CES0000000001,Nonfarm Payrolls,2013,M12,December,137367
+CES0000000001,Nonfarm Payrolls,2013,M11,November,137312
+CES0000000001,Nonfarm Payrolls,2013,M10,October,137039
+CES0000000001,Nonfarm Payrolls,2013,M09,September,136819
+CES0000000001,Nonfarm Payrolls,2013,M08,August,136634
+CES0000000001,Nonfarm Payrolls,2013,M07,July,136391
+CES0000000001,Nonfarm Payrolls,2013,M06,June,136269
+CES0000000001,Nonfarm Payrolls,2013,M05,May,136090
+CES0000000001,Nonfarm Payrolls,2013,M04,April,135876
+CES0000000001,Nonfarm Payrolls,2013,M03,March,135690
+CES0000000001,Nonfarm Payrolls,2013,M02,February,135548
+CES0000000001,Nonfarm Payrolls,2013,M01,January,135263
+CES0000000001,Nonfarm Payrolls,2012,M12,December,135074
+CES0000000001,Nonfarm Payrolls,2012,M11,November,134831
+CES0000000001,Nonfarm Payrolls,2012,M10,October,134672
+CES0000000001,Nonfarm Payrolls,2012,M09,September,134512
+CES0000000001,Nonfarm Payrolls,2012,M08,August,134329
+CES0000000001,Nonfarm Payrolls,2012,M07,July,134153
+CES0000000001,Nonfarm Payrolls,2012,M06,June,134008
+CES0000000001,Nonfarm Payrolls,2012,M05,May,133935
+CES0000000001,Nonfarm Payrolls,2012,M04,April,133828
+CES0000000001,Nonfarm Payrolls,2012,M03,March,133745
+CES0000000001,Nonfarm Payrolls,2012,M02,February,133521
+CES0000000001,Nonfarm Payrolls,2012,M01,January,133243
+CES0000000001,Nonfarm Payrolls,2011,M12,December,132902
+CES0000000001,Nonfarm Payrolls,2011,M11,November,132701
+CES0000000001,Nonfarm Payrolls,2011,M10,October,132557
+CES0000000001,Nonfarm Payrolls,2011,M09,September,132346
+CES0000000001,Nonfarm Payrolls,2011,M08,August,132123
+CES0000000001,Nonfarm Payrolls,2011,M07,July,131992
+CES0000000001,Nonfarm Payrolls,2011,M06,June,131936
+CES0000000001,Nonfarm Payrolls,2011,M05,May,131704
+CES0000000001,Nonfarm Payrolls,2011,M04,April,131604
+CES0000000001,Nonfarm Payrolls,2011,M03,March,131278
+CES0000000001,Nonfarm Payrolls,2011,M02,February,131054
+CES0000000001,Nonfarm Payrolls,2011,M01,January,130839
+CES0000000001,Nonfarm Payrolls,2010,M12,December,130836
+CES0000000001,Nonfarm Payrolls,2010,M11,November,130754
+CES0000000001,Nonfarm Payrolls,2010,M10,October,130620
+CES0000000001,Nonfarm Payrolls,2010,M09,September,130340
+CES0000000001,Nonfarm Payrolls,2010,M08,August,130423
+CES0000000001,Nonfarm Payrolls,2010,M07,July,130420
+CES0000000001,Nonfarm Payrolls,2010,M06,June,130501
+CES0000000001,Nonfarm Payrolls,2010,M05,May,130645
+CES0000000001,Nonfarm Payrolls,2010,M04,April,130115
+CES0000000001,Nonfarm Payrolls,2010,M03,March,129865
+CES0000000001,Nonfarm Payrolls,2010,M02,February,129702
+CES0000000001,Nonfarm Payrolls,2010,M01,January,129795
+LNS14000000,Unemployment Rate,2024,M11,November,4.2
+LNS14000000,Unemployment Rate,2024,M10,October,4.1
+LNS14000000,Unemployment Rate,2024,M09,September,4.1
+LNS14000000,Unemployment Rate,2024,M08,August,4.2
+LNS14000000,Unemployment Rate,2024,M07,July,4.3
+LNS14000000,Unemployment Rate,2024,M06,June,4.1
+LNS14000000,Unemployment Rate,2024,M05,May,4.0
+LNS14000000,Unemployment Rate,2024,M04,April,3.9
+LNS14000000,Unemployment Rate,2024,M03,March,3.8
+LNS14000000,Unemployment Rate,2024,M02,February,3.9
+LNS14000000,Unemployment Rate,2024,M01,January,3.7
+LNS14000000,Unemployment Rate,2023,M12,December,3.7
+LNS14000000,Unemployment Rate,2023,M11,November,3.7
+LNS14000000,Unemployment Rate,2023,M10,October,3.8
+LNS14000000,Unemployment Rate,2023,M09,September,3.8
+LNS14000000,Unemployment Rate,2023,M08,August,3.8
+LNS14000000,Unemployment Rate,2023,M07,July,3.5
+LNS14000000,Unemployment Rate,2023,M06,June,3.6
+LNS14000000,Unemployment Rate,2023,M05,May,3.7
+LNS14000000,Unemployment Rate,2023,M04,April,3.4
+LNS14000000,Unemployment Rate,2023,M03,March,3.5
+LNS14000000,Unemployment Rate,2023,M02,February,3.6
+LNS14000000,Unemployment Rate,2023,M01,January,3.4
+LNS14000000,Unemployment Rate,2022,M12,December,3.5
+LNS14000000,Unemployment Rate,2022,M11,November,3.6
+LNS14000000,Unemployment Rate,2022,M10,October,3.6
+LNS14000000,Unemployment Rate,2022,M09,September,3.5
+LNS14000000,Unemployment Rate,2022,M08,August,3.6
+LNS14000000,Unemployment Rate,2022,M07,July,3.5
+LNS14000000,Unemployment Rate,2022,M06,June,3.6
+LNS14000000,Unemployment Rate,2022,M05,May,3.6
+LNS14000000,Unemployment Rate,2022,M04,April,3.7
+LNS14000000,Unemployment Rate,2022,M03,March,3.6
+LNS14000000,Unemployment Rate,2022,M02,February,3.8
+LNS14000000,Unemployment Rate,2022,M01,January,4.0
+LNS14000000,Unemployment Rate,2021,M12,December,3.9
+LNS14000000,Unemployment Rate,2021,M11,November,4.1
+LNS14000000,Unemployment Rate,2021,M10,October,4.5
+LNS14000000,Unemployment Rate,2021,M09,September,4.7
+LNS14000000,Unemployment Rate,2021,M08,August,5.1
+LNS14000000,Unemployment Rate,2021,M07,July,5.4
+LNS14000000,Unemployment Rate,2021,M06,June,5.9
+LNS14000000,Unemployment Rate,2021,M05,May,5.8
+LNS14000000,Unemployment Rate,2021,M04,April,6.1
+LNS14000000,Unemployment Rate,2021,M03,March,6.1
+LNS14000000,Unemployment Rate,2021,M02,February,6.2
+LNS14000000,Unemployment Rate,2021,M01,January,6.4
+LNS14000000,Unemployment Rate,2020,M12,December,6.7
+LNS14000000,Unemployment Rate,2020,M11,November,6.7
+LNS14000000,Unemployment Rate,2020,M10,October,6.8
+LNS14000000,Unemployment Rate,2020,M09,September,7.8
+LNS14000000,Unemployment Rate,2020,M08,August,8.4
+LNS14000000,Unemployment Rate,2020,M07,July,10.2
+LNS14000000,Unemployment Rate,2020,M06,June,11.0
+LNS14000000,Unemployment Rate,2020,M05,May,13.2
+LNS14000000,Unemployment Rate,2020,M04,April,14.8
+LNS14000000,Unemployment Rate,2020,M03,March,4.4
+LNS14000000,Unemployment Rate,2020,M02,February,3.5
+LNS14000000,Unemployment Rate,2020,M01,January,3.6
+LNS14000000,Unemployment Rate,2019,M12,December,3.6
+LNS14000000,Unemployment Rate,2019,M11,November,3.6
+LNS14000000,Unemployment Rate,2019,M10,October,3.6
+LNS14000000,Unemployment Rate,2019,M09,September,3.5
+LNS14000000,Unemployment Rate,2019,M08,August,3.6
+LNS14000000,Unemployment Rate,2019,M07,July,3.7
+LNS14000000,Unemployment Rate,2019,M06,June,3.6
+LNS14000000,Unemployment Rate,2019,M05,May,3.6
+LNS14000000,Unemployment Rate,2019,M04,April,3.7
+LNS14000000,Unemployment Rate,2019,M03,March,3.8
+LNS14000000,Unemployment Rate,2019,M02,February,3.8
+LNS14000000,Unemployment Rate,2019,M01,January,4.0
+LNS14000000,Unemployment Rate,2018,M12,December,3.9
+LNS14000000,Unemployment Rate,2018,M11,November,3.8
+LNS14000000,Unemployment Rate,2018,M10,October,3.8
+LNS14000000,Unemployment Rate,2018,M09,September,3.7
+LNS14000000,Unemployment Rate,2018,M08,August,3.8
+LNS14000000,Unemployment Rate,2018,M07,July,3.8
+LNS14000000,Unemployment Rate,2018,M06,June,4.0
+LNS14000000,Unemployment Rate,2018,M05,May,3.8
+LNS14000000,Unemployment Rate,2018,M04,April,4.0
+LNS14000000,Unemployment Rate,2018,M03,March,4.0
+LNS14000000,Unemployment Rate,2018,M02,February,4.1
+LNS14000000,Unemployment Rate,2018,M01,January,4.0
+LNS14000000,Unemployment Rate,2017,M12,December,4.1
+LNS14000000,Unemployment Rate,2017,M11,November,4.2
+LNS14000000,Unemployment Rate,2017,M10,October,4.2
+LNS14000000,Unemployment Rate,2017,M09,September,4.3
+LNS14000000,Unemployment Rate,2017,M08,August,4.4
+LNS14000000,Unemployment Rate,2017,M07,July,4.3
+LNS14000000,Unemployment Rate,2017,M06,June,4.3
+LNS14000000,Unemployment Rate,2017,M05,May,4.4
+LNS14000000,Unemployment Rate,2017,M04,April,4.4
+LNS14000000,Unemployment Rate,2017,M03,March,4.4
+LNS14000000,Unemployment Rate,2017,M02,February,4.6
+LNS14000000,Unemployment Rate,2017,M01,January,4.7
+LNS14000000,Unemployment Rate,2016,M12,December,4.7
+LNS14000000,Unemployment Rate,2016,M11,November,4.7
+LNS14000000,Unemployment Rate,2016,M10,October,4.9
+LNS14000000,Unemployment Rate,2016,M09,September,5.0
+LNS14000000,Unemployment Rate,2016,M08,August,4.9
+LNS14000000,Unemployment Rate,2016,M07,July,4.8
+LNS14000000,Unemployment Rate,2016,M06,June,4.9
+LNS14000000,Unemployment Rate,2016,M05,May,4.8
+LNS14000000,Unemployment Rate,2016,M04,April,5.1
+LNS14000000,Unemployment Rate,2016,M03,March,5.0
+LNS14000000,Unemployment Rate,2016,M02,February,4.9
+LNS14000000,Unemployment Rate,2016,M01,January,4.8
+LNS14000000,Unemployment Rate,2015,M12,December,5.0
+LNS14000000,Unemployment Rate,2015,M11,November,5.1
+LNS14000000,Unemployment Rate,2015,M10,October,5.0
+LNS14000000,Unemployment Rate,2015,M09,September,5.0
+LNS14000000,Unemployment Rate,2015,M08,August,5.1
+LNS14000000,Unemployment Rate,2015,M07,July,5.2
+LNS14000000,Unemployment Rate,2015,M06,June,5.3
+LNS14000000,Unemployment Rate,2015,M05,May,5.6
+LNS14000000,Unemployment Rate,2015,M04,April,5.4
+LNS14000000,Unemployment Rate,2015,M03,March,5.4
+LNS14000000,Unemployment Rate,2015,M02,February,5.5
+LNS14000000,Unemployment Rate,2015,M01,January,5.7
+LNS14000000,Unemployment Rate,2014,M12,December,5.6
+LNS14000000,Unemployment Rate,2014,M11,November,5.8
+LNS14000000,Unemployment Rate,2014,M10,October,5.7
+LNS14000000,Unemployment Rate,2014,M09,September,5.9
+LNS14000000,Unemployment Rate,2014,M08,August,6.1
+LNS14000000,Unemployment Rate,2014,M07,July,6.2
+LNS14000000,Unemployment Rate,2014,M06,June,6.1
+LNS14000000,Unemployment Rate,2014,M05,May,6.3
+LNS14000000,Unemployment Rate,2014,M04,April,6.2
+LNS14000000,Unemployment Rate,2014,M03,March,6.7
+LNS14000000,Unemployment Rate,2014,M02,February,6.7
+LNS14000000,Unemployment Rate,2014,M01,January,6.6
+LNS14000000,Unemployment Rate,2013,M12,December,6.7
+LNS14000000,Unemployment Rate,2013,M11,November,6.9
+LNS14000000,Unemployment Rate,2013,M10,October,7.2
+LNS14000000,Unemployment Rate,2013,M09,September,7.2
+LNS14000000,Unemployment Rate,2013,M08,August,7.2
+LNS14000000,Unemployment Rate,2013,M07,July,7.3
+LNS14000000,Unemployment Rate,2013,M06,June,7.5
+LNS14000000,Unemployment Rate,2013,M05,May,7.5
+LNS14000000,Unemployment Rate,2013,M04,April,7.6
+LNS14000000,Unemployment Rate,2013,M03,March,7.5
+LNS14000000,Unemployment Rate,2013,M02,February,7.7
+LNS14000000,Unemployment Rate,2013,M01,January,8.0
+LNS14000000,Unemployment Rate,2012,M12,December,7.9
+LNS14000000,Unemployment Rate,2012,M11,November,7.7
+LNS14000000,Unemployment Rate,2012,M10,October,7.8
+LNS14000000,Unemployment Rate,2012,M09,September,7.8
+LNS14000000,Unemployment Rate,2012,M08,August,8.1
+LNS14000000,Unemployment Rate,2012,M07,July,8.2
+LNS14000000,Unemployment Rate,2012,M06,June,8.2
+LNS14000000,Unemployment Rate,2012,M05,May,8.2
+LNS14000000,Unemployment Rate,2012,M04,April,8.2
+LNS14000000,Unemployment Rate,2012,M03,March,8.2
+LNS14000000,Unemployment Rate,2012,M02,February,8.3
+LNS14000000,Unemployment Rate,2012,M01,January,8.3
+LNS14000000,Unemployment Rate,2011,M12,December,8.5
+LNS14000000,Unemployment Rate,2011,M11,November,8.6
+LNS14000000,Unemployment Rate,2011,M10,October,8.8
+LNS14000000,Unemployment Rate,2011,M09,September,9.0
+LNS14000000,Unemployment Rate,2011,M08,August,9.0
+LNS14000000,Unemployment Rate,2011,M07,July,9.0
+LNS14000000,Unemployment Rate,2011,M06,June,9.1
+LNS14000000,Unemployment Rate,2011,M05,May,9.0
+LNS14000000,Unemployment Rate,2011,M04,April,9.1
+LNS14000000,Unemployment Rate,2011,M03,March,9.0
+LNS14000000,Unemployment Rate,2011,M02,February,9.0
+LNS14000000,Unemployment Rate,2011,M01,January,9.1
+LNS14000000,Unemployment Rate,2010,M12,December,9.3
+LNS14000000,Unemployment Rate,2010,M11,November,9.8
+LNS14000000,Unemployment Rate,2010,M10,October,9.4
+LNS14000000,Unemployment Rate,2010,M09,September,9.5
+LNS14000000,Unemployment Rate,2010,M08,August,9.5
+LNS14000000,Unemployment Rate,2010,M07,July,9.4
+LNS14000000,Unemployment Rate,2010,M06,June,9.4
+LNS14000000,Unemployment Rate,2010,M05,May,9.6
+LNS14000000,Unemployment Rate,2010,M04,April,9.9
+LNS14000000,Unemployment Rate,2010,M03,March,9.9
+LNS14000000,Unemployment Rate,2010,M02,February,9.8
+LNS14000000,Unemployment Rate,2010,M01,January,9.8
+LNS11000000,Civilian Labor Force,2024,M11,November,168286
+LNS11000000,Civilian Labor Force,2024,M10,October,168479
+LNS11000000,Civilian Labor Force,2024,M09,September,168699
+LNS11000000,Civilian Labor Force,2024,M08,August,168549
+LNS11000000,Civilian Labor Force,2024,M07,July,168429
+LNS11000000,Civilian Labor Force,2024,M06,June,168009
+LNS11000000,Civilian Labor Force,2024,M05,May,167732
+LNS11000000,Civilian Labor Force,2024,M04,April,167982
+LNS11000000,Civilian Labor Force,2024,M03,March,167895
+LNS11000000,Civilian Labor Force,2024,M02,February,167426
+LNS11000000,Civilian Labor Force,2024,M01,January,167276
+LNS11000000,Civilian Labor Force,2023,M12,December,167451
+LNS11000000,Civilian Labor Force,2023,M11,November,168127
+LNS11000000,Civilian Labor Force,2023,M10,October,167723
+LNS11000000,Civilian Labor Force,2023,M09,September,167897
+LNS11000000,Civilian Labor Force,2023,M08,August,167840
+LNS11000000,Civilian Labor Force,2023,M07,July,167113
+LNS11000000,Civilian Labor Force,2023,M06,June,167000
+LNS11000000,Civilian Labor Force,2023,M05,May,166823
+LNS11000000,Civilian Labor Force,2023,M04,April,166678
+LNS11000000,Civilian Labor Force,2023,M03,March,166690
+LNS11000000,Civilian Labor Force,2023,M02,February,166263
+LNS11000000,Civilian Labor Force,2023,M01,January,165871
+LNS11000000,Civilian Labor Force,2022,M12,December,164998
+LNS11000000,Civilian Labor Force,2022,M11,November,164441
+LNS11000000,Civilian Labor Force,2022,M10,October,164679
+LNS11000000,Civilian Labor Force,2022,M09,September,164649
+LNS11000000,Civilian Labor Force,2022,M08,August,164741
+LNS11000000,Civilian Labor Force,2022,M07,July,164065
+LNS11000000,Civilian Labor Force,2022,M06,June,164100
+LNS11000000,Civilian Labor Force,2022,M05,May,164280
+LNS11000000,Civilian Labor Force,2022,M04,April,163922
+LNS11000000,Civilian Labor Force,2022,M03,March,164212
+LNS11000000,Civilian Labor Force,2022,M02,February,163807
+LNS11000000,Civilian Labor Force,2022,M01,January,163615
+LNS11000000,Civilian Labor Force,2021,M12,December,162429
+LNS11000000,Civilian Labor Force,2021,M11,November,162241
+LNS11000000,Civilian Labor Force,2021,M10,October,161748
+LNS11000000,Civilian Labor Force,2021,M09,September,161568
+LNS11000000,Civilian Labor Force,2021,M08,August,161558
+LNS11000000,Civilian Labor Force,2021,M07,July,161558
+LNS11000000,Civilian Labor Force,2021,M06,June,161294
+LNS11000000,Civilian Labor Force,2021,M05,May,160737
+LNS11000000,Civilian Labor Force,2021,M04,April,160884
+LNS11000000,Civilian Labor Force,2021,M03,March,160395
+LNS11000000,Civilian Labor Force,2021,M02,February,160133
+LNS11000000,Civilian Labor Force,2021,M01,January,160014
+LNS11000000,Civilian Labor Force,2020,M12,December,160761
+LNS11000000,Civilian Labor Force,2020,M11,November,160627
+LNS11000000,Civilian Labor Force,2020,M10,October,160961
+LNS11000000,Civilian Labor Force,2020,M09,September,160247
+LNS11000000,Civilian Labor Force,2020,M08,August,160759
+LNS11000000,Civilian Labor Force,2020,M07,July,160178
+LNS11000000,Civilian Labor Force,2020,M06,June,160003
+LNS11000000,Civilian Labor Force,2020,M05,May,158066
+LNS11000000,Civilian Labor Force,2020,M04,April,156276
+LNS11000000,Civilian Labor Force,2020,M03,March,162581
+LNS11000000,Civilian Labor Force,2020,M02,February,164412
+LNS11000000,Civilian Labor Force,2020,M01,January,164328
+LNS11000000,Civilian Labor Force,2019,M12,December,164699
+LNS11000000,Civilian Labor Force,2019,M11,November,164496
+LNS11000000,Civilian Labor Force,2019,M10,October,164416
+LNS11000000,Civilian Labor Force,2019,M09,September,164092
+LNS11000000,Civilian Labor Force,2019,M08,August,163774
+LNS11000000,Civilian Labor Force,2019,M07,July,163590
+LNS11000000,Civilian Labor Force,2019,M06,June,163168
+LNS11000000,Civilian Labor Force,2019,M05,May,162751
+LNS11000000,Civilian Labor Force,2019,M04,April,162586
+LNS11000000,Civilian Labor Force,2019,M03,March,162904
+LNS11000000,Civilian Labor Force,2019,M02,February,162999
+LNS11000000,Civilian Labor Force,2019,M01,January,162963
+LNS11000000,Civilian Labor Force,2018,M12,December,163206
+LNS11000000,Civilian Labor Force,2018,M11,November,162836
+LNS11000000,Civilian Labor Force,2018,M10,October,162602
+LNS11000000,Civilian Labor Force,2018,M09,September,162087
+LNS11000000,Civilian Labor Force,2018,M08,August,161660
+LNS11000000,Civilian Labor Force,2018,M07,July,162341
+LNS11000000,Civilian Labor Force,2018,M06,June,162210
+LNS11000000,Civilian Labor Force,2018,M05,May,161848
+LNS11000000,Civilian Labor Force,2018,M04,April,161771
+LNS11000000,Civilian Labor Force,2018,M03,March,161686
+LNS11000000,Civilian Labor Force,2018,M02,February,161778
+LNS11000000,Civilian Labor Force,2018,M01,January,160914
+LNS11000000,Civilian Labor Force,2017,M12,December,160535
+LNS11000000,Civilian Labor Force,2017,M11,November,160579
+LNS11000000,Civilian Labor Force,2017,M10,October,160309
+LNS11000000,Civilian Labor Force,2017,M09,September,161140
+LNS11000000,Civilian Labor Force,2017,M08,August,160586
+LNS11000000,Civilian Labor Force,2017,M07,July,160462
+LNS11000000,Civilian Labor Force,2017,M06,June,160192
+LNS11000000,Civilian Labor Force,2017,M05,May,160068
+LNS11000000,Civilian Labor Force,2017,M04,April,160345
+LNS11000000,Civilian Labor Force,2017,M03,March,160137
+LNS11000000,Civilian Labor Force,2017,M02,February,159859
+LNS11000000,Civilian Labor Force,2017,M01,January,159620
+LNS11000000,Civilian Labor Force,2016,M12,December,159678
+LNS11000000,Civilian Labor Force,2016,M11,November,159506
+LNS11000000,Civilian Labor Force,2016,M10,October,159605
+LNS11000000,Civilian Labor Force,2016,M09,September,159714
+LNS11000000,Civilian Labor Force,2016,M08,August,159562
+LNS11000000,Civilian Labor Force,2016,M07,July,159194
+LNS11000000,Civilian Labor Force,2016,M06,June,158967
+LNS11000000,Civilian Labor Force,2016,M05,May,158784
+LNS11000000,Civilian Labor Force,2016,M04,April,159141
+LNS11000000,Civilian Labor Force,2016,M03,March,159179
+LNS11000000,Civilian Labor Force,2016,M02,February,158640
+LNS11000000,Civilian Labor Force,2016,M01,January,158280
+LNS11000000,Civilian Labor Force,2015,M12,December,158035
+LNS11000000,Civilian Labor Force,2015,M11,November,157463
+LNS11000000,Civilian Labor Force,2015,M10,October,157167
+LNS11000000,Civilian Labor Force,2015,M09,September,156733
+LNS11000000,Civilian Labor Force,2015,M08,August,157172
+LNS11000000,Civilian Labor Force,2015,M07,July,156997
+LNS11000000,Civilian Labor Force,2015,M06,June,157062
+LNS11000000,Civilian Labor Force,2015,M05,May,157651
+LNS11000000,Civilian Labor Force,2015,M04,April,157060
+LNS11000000,Civilian Labor Force,2015,M03,March,156643
+LNS11000000,Civilian Labor Force,2015,M02,February,156644
+LNS11000000,Civilian Labor Force,2015,M01,January,157030
+LNS11000000,Civilian Labor Force,2014,M12,December,156332
+LNS11000000,Civilian Labor Force,2014,M11,November,156494
+LNS11000000,Civilian Labor Force,2014,M10,October,156417
+LNS11000000,Civilian Labor Force,2014,M09,September,156040
+LNS11000000,Civilian Labor Force,2014,M08,August,156130
+LNS11000000,Civilian Labor Force,2014,M07,July,156007
+LNS11000000,Civilian Labor Force,2014,M06,June,155707
+LNS11000000,Civilian Labor Force,2014,M05,May,155684
+LNS11000000,Civilian Labor Force,2014,M04,April,155369
+LNS11000000,Civilian Labor Force,2014,M03,March,156028
+LNS11000000,Civilian Labor Force,2014,M02,February,155483
+LNS11000000,Civilian Labor Force,2014,M01,January,155352
+LNS11000000,Civilian Labor Force,2013,M12,December,155182
+LNS11000000,Civilian Labor Force,2013,M11,November,155265
+LNS11000000,Civilian Labor Force,2013,M10,October,154673
+LNS11000000,Civilian Labor Force,2013,M09,September,155687
+LNS11000000,Civilian Labor Force,2013,M08,August,155605
+LNS11000000,Civilian Labor Force,2013,M07,July,155599
+LNS11000000,Civilian Labor Force,2013,M06,June,155749
+LNS11000000,Civilian Labor Force,2013,M05,May,155536
+LNS11000000,Civilian Labor Force,2013,M04,April,155394
+LNS11000000,Civilian Labor Force,2013,M03,March,155005
+LNS11000000,Civilian Labor Force,2013,M02,February,155312
+LNS11000000,Civilian Labor Force,2013,M01,January,155763
+LNS11000000,Civilian Labor Force,2012,M12,December,155628
+LNS11000000,Civilian Labor Force,2012,M11,November,155338
+LNS11000000,Civilian Labor Force,2012,M10,October,155554
+LNS11000000,Civilian Labor Force,2012,M09,September,155160
+LNS11000000,Civilian Labor Force,2012,M08,August,154763
+LNS11000000,Civilian Labor Force,2012,M07,July,154948
+LNS11000000,Civilian Labor Force,2012,M06,June,155083
+LNS11000000,Civilian Labor Force,2012,M05,May,154866
+LNS11000000,Civilian Labor Force,2012,M04,April,154545
+LNS11000000,Civilian Labor Force,2012,M03,March,154749
+LNS11000000,Civilian Labor Force,2012,M02,February,154671
+LNS11000000,Civilian Labor Force,2012,M01,January,154381
+LNS11000000,Civilian Labor Force,2011,M12,December,153995
+LNS11000000,Civilian Labor Force,2011,M11,November,154128
+LNS11000000,Civilian Labor Force,2011,M10,October,153961
+LNS11000000,Civilian Labor Force,2011,M09,September,154131
+LNS11000000,Civilian Labor Force,2011,M08,August,153760
+LNS11000000,Civilian Labor Force,2011,M07,July,153288
+LNS11000000,Civilian Labor Force,2011,M06,June,153346
+LNS11000000,Civilian Labor Force,2011,M05,May,153479
+LNS11000000,Civilian Labor Force,2011,M04,April,153543
+LNS11000000,Civilian Labor Force,2011,M03,March,153376
+LNS11000000,Civilian Labor Force,2011,M02,February,153214
+LNS11000000,Civilian Labor Force,2011,M01,January,153263
+LNS11000000,Civilian Labor Force,2010,M12,December,153650
+LNS11000000,Civilian Labor Force,2010,M11,November,154125
+LNS11000000,Civilian Labor Force,2010,M10,October,153635
+LNS11000000,Civilian Labor Force,2010,M09,September,153975
+LNS11000000,Civilian Labor Force,2010,M08,August,154086
+LNS11000000,Civilian Labor Force,2010,M07,July,153691
+LNS11000000,Civilian Labor Force,2010,M06,June,153616
+LNS11000000,Civilian Labor Force,2010,M05,May,154091
+LNS11000000,Civilian Labor Force,2010,M04,April,154622
+LNS11000000,Civilian Labor Force,2010,M03,March,153954
+LNS11000000,Civilian Labor Force,2010,M02,February,153694
+LNS11000000,Civilian Labor Force,2010,M01,January,153484
+CES0500000003,Avg Hourly Earnings (Private),2024,M11,November,35.61
+CES0500000003,Avg Hourly Earnings (Private),2024,M10,October,35.48
+CES0500000003,Avg Hourly Earnings (Private),2024,M09,September,35.33
+CES0500000003,Avg Hourly Earnings (Private),2024,M08,August,35.22
+CES0500000003,Avg Hourly Earnings (Private),2024,M07,July,35.07
+CES0500000003,Avg Hourly Earnings (Private),2024,M06,June,34.99
+CES0500000003,Avg Hourly Earnings (Private),2024,M05,May,34.88
+CES0500000003,Avg Hourly Earnings (Private),2024,M04,April,34.75
+CES0500000003,Avg Hourly Earnings (Private),2024,M03,March,34.69
+CES0500000003,Avg Hourly Earnings (Private),2024,M02,February,34.56
+CES0500000003,Avg Hourly Earnings (Private),2024,M01,January,34.51
+CES0500000003,Avg Hourly Earnings (Private),2023,M12,December,34.34
+CES0500000003,Avg Hourly Earnings (Private),2023,M11,November,34.23
+CES0500000003,Avg Hourly Earnings (Private),2023,M10,October,34.10
+CES0500000003,Avg Hourly Earnings (Private),2023,M09,September,34.01
+CES0500000003,Avg Hourly Earnings (Private),2023,M08,August,33.91
+CES0500000003,Avg Hourly Earnings (Private),2023,M07,July,33.84
+CES0500000003,Avg Hourly Earnings (Private),2023,M06,June,33.70
+CES0500000003,Avg Hourly Earnings (Private),2023,M05,May,33.54
+CES0500000003,Avg Hourly Earnings (Private),2023,M04,April,33.44
+CES0500000003,Avg Hourly Earnings (Private),2023,M03,March,33.31
+CES0500000003,Avg Hourly Earnings (Private),2023,M02,February,33.15
+CES0500000003,Avg Hourly Earnings (Private),2023,M01,January,33.07
+CES0500000003,Avg Hourly Earnings (Private),2022,M12,December,32.94
+CES0500000003,Avg Hourly Earnings (Private),2022,M11,November,32.83
+CES0500000003,Avg Hourly Earnings (Private),2022,M10,October,32.70
+CES0500000003,Avg Hourly Earnings (Private),2022,M09,September,32.54
+CES0500000003,Avg Hourly Earnings (Private),2022,M08,August,32.44
+CES0500000003,Avg Hourly Earnings (Private),2022,M07,July,32.33
+CES0500000003,Avg Hourly Earnings (Private),2022,M06,June,32.20
+CES0500000003,Avg Hourly Earnings (Private),2022,M05,May,32.08
+CES0500000003,Avg Hourly Earnings (Private),2022,M04,April,31.95
+CES0500000003,Avg Hourly Earnings (Private),2022,M03,March,31.84
+CES0500000003,Avg Hourly Earnings (Private),2022,M02,February,31.65
+CES0500000003,Avg Hourly Earnings (Private),2022,M01,January,31.63
+CES0500000003,Avg Hourly Earnings (Private),2021,M12,December,31.40
+CES0500000003,Avg Hourly Earnings (Private),2021,M11,November,31.24
+CES0500000003,Avg Hourly Earnings (Private),2021,M10,October,31.15
+CES0500000003,Avg Hourly Earnings (Private),2021,M09,September,30.95
+CES0500000003,Avg Hourly Earnings (Private),2021,M08,August,30.77
+CES0500000003,Avg Hourly Earnings (Private),2021,M07,July,30.65
+CES0500000003,Avg Hourly Earnings (Private),2021,M06,June,30.54
+CES0500000003,Avg Hourly Earnings (Private),2021,M05,May,30.39
+CES0500000003,Avg Hourly Earnings (Private),2021,M04,April,30.21
+CES0500000003,Avg Hourly Earnings (Private),2021,M03,March,30.06
+CES0500000003,Avg Hourly Earnings (Private),2021,M02,February,30.06
+CES0500000003,Avg Hourly Earnings (Private),2021,M01,January,29.93
+CES0500000003,Avg Hourly Earnings (Private),2020,M12,December,29.90
+CES0500000003,Avg Hourly Earnings (Private),2020,M11,November,29.63
+CES0500000003,Avg Hourly Earnings (Private),2020,M10,October,29.54
+CES0500000003,Avg Hourly Earnings (Private),2020,M09,September,29.51
+CES0500000003,Avg Hourly Earnings (Private),2020,M08,August,29.48
+CES0500000003,Avg Hourly Earnings (Private),2020,M07,July,29.38
+CES0500000003,Avg Hourly Earnings (Private),2020,M06,June,29.38
+CES0500000003,Avg Hourly Earnings (Private),2020,M05,May,29.72
+CES0500000003,Avg Hourly Earnings (Private),2020,M04,April,30.01
+CES0500000003,Avg Hourly Earnings (Private),2020,M03,March,28.77
+CES0500000003,Avg Hourly Earnings (Private),2020,M02,February,28.55
+CES0500000003,Avg Hourly Earnings (Private),2020,M01,January,28.44
+CES0500000003,Avg Hourly Earnings (Private),2019,M12,December,28.37
+CES0500000003,Avg Hourly Earnings (Private),2019,M11,November,28.35
+CES0500000003,Avg Hourly Earnings (Private),2019,M10,October,28.23
+CES0500000003,Avg Hourly Earnings (Private),2019,M09,September,28.17
+CES0500000003,Avg Hourly Earnings (Private),2019,M08,August,28.13
+CES0500000003,Avg Hourly Earnings (Private),2019,M07,July,28.02
+CES0500000003,Avg Hourly Earnings (Private),2019,M06,June,27.95
+CES0500000003,Avg Hourly Earnings (Private),2019,M05,May,27.86
+CES0500000003,Avg Hourly Earnings (Private),2019,M04,April,27.78
+CES0500000003,Avg Hourly Earnings (Private),2019,M03,March,27.80
+CES0500000003,Avg Hourly Earnings (Private),2019,M02,February,27.71
+CES0500000003,Avg Hourly Earnings (Private),2019,M01,January,27.59
+CES0500000003,Avg Hourly Earnings (Private),2018,M12,December,27.55
+CES0500000003,Avg Hourly Earnings (Private),2018,M11,November,27.44
+CES0500000003,Avg Hourly Earnings (Private),2018,M10,October,27.37
+CES0500000003,Avg Hourly Earnings (Private),2018,M09,September,27.32
+CES0500000003,Avg Hourly Earnings (Private),2018,M08,August,27.20
+CES0500000003,Avg Hourly Earnings (Private),2018,M07,July,27.09
+CES0500000003,Avg Hourly Earnings (Private),2018,M06,June,27.04
+CES0500000003,Avg Hourly Earnings (Private),2018,M05,May,26.98
+CES0500000003,Avg Hourly Earnings (Private),2018,M04,April,26.91
+CES0500000003,Avg Hourly Earnings (Private),2018,M03,March,26.86
+CES0500000003,Avg Hourly Earnings (Private),2018,M02,February,26.75
+CES0500000003,Avg Hourly Earnings (Private),2018,M01,January,26.73
+CES0500000003,Avg Hourly Earnings (Private),2017,M12,December,26.61
+CES0500000003,Avg Hourly Earnings (Private),2017,M11,November,26.53
+CES0500000003,Avg Hourly Earnings (Private),2017,M10,October,26.49
+CES0500000003,Avg Hourly Earnings (Private),2017,M09,September,26.49
+CES0500000003,Avg Hourly Earnings (Private),2017,M08,August,26.38
+CES0500000003,Avg Hourly Earnings (Private),2017,M07,July,26.36
+CES0500000003,Avg Hourly Earnings (Private),2017,M06,June,26.26
+CES0500000003,Avg Hourly Earnings (Private),2017,M05,May,26.21
+CES0500000003,Avg Hourly Earnings (Private),2017,M04,April,26.17
+CES0500000003,Avg Hourly Earnings (Private),2017,M03,March,26.11
+CES0500000003,Avg Hourly Earnings (Private),2017,M02,February,26.07
+CES0500000003,Avg Hourly Earnings (Private),2017,M01,January,26.00
+CES0500000003,Avg Hourly Earnings (Private),2016,M12,December,25.92
+CES0500000003,Avg Hourly Earnings (Private),2016,M11,November,25.90
+CES0500000003,Avg Hourly Earnings (Private),2016,M10,October,25.89
+CES0500000003,Avg Hourly Earnings (Private),2016,M09,September,25.77
+CES0500000003,Avg Hourly Earnings (Private),2016,M08,August,25.72
+CES0500000003,Avg Hourly Earnings (Private),2016,M07,July,25.69
+CES0500000003,Avg Hourly Earnings (Private),2016,M06,June,25.62
+CES0500000003,Avg Hourly Earnings (Private),2016,M05,May,25.58
+CES0500000003,Avg Hourly Earnings (Private),2016,M04,April,25.53
+CES0500000003,Avg Hourly Earnings (Private),2016,M03,March,25.45
+CES0500000003,Avg Hourly Earnings (Private),2016,M02,February,25.38
+CES0500000003,Avg Hourly Earnings (Private),2016,M01,January,25.38
+CES0500000003,Avg Hourly Earnings (Private),2015,M12,December,25.24
+CES0500000003,Avg Hourly Earnings (Private),2015,M11,November,25.25
+CES0500000003,Avg Hourly Earnings (Private),2015,M10,October,25.19
+CES0500000003,Avg Hourly Earnings (Private),2015,M09,September,25.11
+CES0500000003,Avg Hourly Earnings (Private),2015,M08,August,25.09
+CES0500000003,Avg Hourly Earnings (Private),2015,M07,July,25.00
+CES0500000003,Avg Hourly Earnings (Private),2015,M06,June,24.97
+CES0500000003,Avg Hourly Earnings (Private),2015,M05,May,24.97
+CES0500000003,Avg Hourly Earnings (Private),2015,M04,April,24.89
+CES0500000003,Avg Hourly Earnings (Private),2015,M03,March,24.86
+CES0500000003,Avg Hourly Earnings (Private),2015,M02,February,24.79
+CES0500000003,Avg Hourly Earnings (Private),2015,M01,January,24.75
+CES0500000003,Avg Hourly Earnings (Private),2014,M12,December,24.62
+CES0500000003,Avg Hourly Earnings (Private),2014,M11,November,24.66
+CES0500000003,Avg Hourly Earnings (Private),2014,M10,October,24.58
+CES0500000003,Avg Hourly Earnings (Private),2014,M09,September,24.55
+CES0500000003,Avg Hourly Earnings (Private),2014,M08,August,24.54
+CES0500000003,Avg Hourly Earnings (Private),2014,M07,July,24.48
+CES0500000003,Avg Hourly Earnings (Private),2014,M06,June,24.46
+CES0500000003,Avg Hourly Earnings (Private),2014,M05,May,24.40
+CES0500000003,Avg Hourly Earnings (Private),2014,M04,April,24.34
+CES0500000003,Avg Hourly Earnings (Private),2014,M03,March,24.32
+CES0500000003,Avg Hourly Earnings (Private),2014,M02,February,24.33
+CES0500000003,Avg Hourly Earnings (Private),2014,M01,January,24.23
+CES0500000003,Avg Hourly Earnings (Private),2013,M12,December,24.18
+CES0500000003,Avg Hourly Earnings (Private),2013,M11,November,24.16
+CES0500000003,Avg Hourly Earnings (Private),2013,M10,October,24.09
+CES0500000003,Avg Hourly Earnings (Private),2013,M09,September,24.06
+CES0500000003,Avg Hourly Earnings (Private),2013,M08,August,24.02
+CES0500000003,Avg Hourly Earnings (Private),2013,M07,July,23.98
+CES0500000003,Avg Hourly Earnings (Private),2013,M06,June,23.96
+CES0500000003,Avg Hourly Earnings (Private),2013,M05,May,23.89
+CES0500000003,Avg Hourly Earnings (Private),2013,M04,April,23.87
+CES0500000003,Avg Hourly Earnings (Private),2013,M03,March,23.80
+CES0500000003,Avg Hourly Earnings (Private),2013,M02,February,23.78
+CES0500000003,Avg Hourly Earnings (Private),2013,M01,January,23.75
+CES0500000003,Avg Hourly Earnings (Private),2012,M12,December,23.73
+CES0500000003,Avg Hourly Earnings (Private),2012,M11,November,23.63
+CES0500000003,Avg Hourly Earnings (Private),2012,M10,October,23.56
+CES0500000003,Avg Hourly Earnings (Private),2012,M09,September,23.57
+CES0500000003,Avg Hourly Earnings (Private),2012,M08,August,23.48
+CES0500000003,Avg Hourly Earnings (Private),2012,M07,July,23.50
+CES0500000003,Avg Hourly Earnings (Private),2012,M06,June,23.46
+CES0500000003,Avg Hourly Earnings (Private),2012,M05,May,23.40
+CES0500000003,Avg Hourly Earnings (Private),2012,M04,April,23.39
+CES0500000003,Avg Hourly Earnings (Private),2012,M03,March,23.36
+CES0500000003,Avg Hourly Earnings (Private),2012,M02,February,23.28
+CES0500000003,Avg Hourly Earnings (Private),2012,M01,January,23.25
+CES0500000003,Avg Hourly Earnings (Private),2011,M12,December,23.22
+CES0500000003,Avg Hourly Earnings (Private),2011,M11,November,23.19
+CES0500000003,Avg Hourly Earnings (Private),2011,M10,October,23.20
+CES0500000003,Avg Hourly Earnings (Private),2011,M09,September,23.12
+CES0500000003,Avg Hourly Earnings (Private),2011,M08,August,23.07
+CES0500000003,Avg Hourly Earnings (Private),2011,M07,July,23.10
+CES0500000003,Avg Hourly Earnings (Private),2011,M06,June,23.01
+CES0500000003,Avg Hourly Earnings (Private),2011,M05,May,22.98
+CES0500000003,Avg Hourly Earnings (Private),2011,M04,April,22.91
+CES0500000003,Avg Hourly Earnings (Private),2011,M03,March,22.87
+CES0500000003,Avg Hourly Earnings (Private),2011,M02,February,22.87
+CES0500000003,Avg Hourly Earnings (Private),2011,M01,January,22.86
+CES0500000003,Avg Hourly Earnings (Private),2010,M12,December,22.76
+CES0500000003,Avg Hourly Earnings (Private),2010,M11,November,22.73
+CES0500000003,Avg Hourly Earnings (Private),2010,M10,October,22.74
+CES0500000003,Avg Hourly Earnings (Private),2010,M09,September,22.67
+CES0500000003,Avg Hourly Earnings (Private),2010,M08,August,22.62
+CES0500000003,Avg Hourly Earnings (Private),2010,M07,July,22.59
+CES0500000003,Avg Hourly Earnings (Private),2010,M06,June,22.53
+CES0500000003,Avg Hourly Earnings (Private),2010,M05,May,22.53
+CES0500000003,Avg Hourly Earnings (Private),2010,M04,April,22.49
+CES0500000003,Avg Hourly Earnings (Private),2010,M03,March,22.46
+CES0500000003,Avg Hourly Earnings (Private),2010,M02,February,22.45
+CES0500000003,Avg Hourly Earnings (Private),2010,M01,January,22.41
