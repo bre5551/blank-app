@@ -12,10 +12,10 @@ import pandas as pd
 import os
 from datetime import datetime
 
-# Define your API key here (replace 'YOUR_API_KEY' with your actual key)
+# API Key
 BLS_API_KEY = "22fddc1846284403b42a8a2326b03d8f"
 
-# Define the BLS series to pull
+# Datasets to pull
 data_series = [
     {"series_id": "CES0000000001", "name": "Nonfarm Payrolls"},
     {"series_id": "LNS14000000", "name": "Unemployment Rate"},
@@ -23,17 +23,17 @@ data_series = [
     {"series_id": "CES0500000003", "name": "Avg Hourly Earnings (Private)"}
 ]
 
-# File path for the CSV file
+# CSV file name
 file_path = "bls_data.csv"
 
-# Function to pull data from the BLS API
+# Pull from the BLS API
 def fetch_bls_data(series_id):
     url = "https://api.bls.gov/publicAPI/v2/timeseries/data/"
     headers = {"Content-Type": "application/json"}
 
     payload = {
         "seriesid": [series_id],
-        "startyear": "2010",  # Adjust start year as needed
+        "startyear": "2010",
         "endyear": str(datetime.now().year),
         "registrationkey": BLS_API_KEY
     }
@@ -46,7 +46,7 @@ def fetch_bls_data(series_id):
         print(f"Error fetching data for series {series_id}: {response_data.get('message', 'Unknown error')}")
         return []
 
-# Function to process and append data to the CSV file
+# Append data to CSV file
 def update_csv(data_series, file_path):
     all_data = []
     for series in data_series:
@@ -67,7 +67,7 @@ def update_csv(data_series, file_path):
         # Load existing CSV
         df_existing = pd.read_csv(file_path)
 
-        # Combine and drop duplicates
+        # Cleanup duplicates
         df_combined = pd.concat([df_existing, df_new], ignore_index=True)
         df_combined.drop_duplicates(subset=["series_id", "year", "period"], inplace=True)
         df_combined.to_csv(file_path, index=False)
